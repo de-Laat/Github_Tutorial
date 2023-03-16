@@ -1,7 +1,7 @@
 ####################
 ## Set filenames! ##
 ####################
-
+# small edit <cr>
 location = "Location of input/output file"
 filename = "nucleotide_file.txt"
 outputname = "nucleotide_output.txt"
